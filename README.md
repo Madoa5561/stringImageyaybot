@@ -1,0 +1,2 @@
+# stringImageyaybot
+Yayで10分ごとのランダムな3文字を投稿するbotのコードです
